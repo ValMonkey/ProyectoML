@@ -13,8 +13,8 @@ Lo que deseaba realizar era predecir los siguientes puntos de la serie de tiempo
 ------------------------------------------------------------------------------------- Modelos utilizados: Predicción
 
 Para abordar el problema utilicé tecnicas como: 
-> Regresión lineal
-> Regresión logistica
+- Regresión lineal
+- Regresión logistica
 
 ------------------------------------------------------------------------------------- Resultados de los modelos: Predicción.
 
@@ -33,8 +33,8 @@ Se buscaba clasificar cada una de las clases (drogas).
 ------------------------------------------------------------------------------------- Modelos utilizados: Clasificación.
 
 Para abordar este problema se utilizaron dos diferentes modelos de clasificación: 
-> Arbol de decisión.
-> Regresión logistica
+- Arbol de decisión.
+- Regresión logistica
 
 ------------------------------------------------------------------------------------- Reultados de los modelos: Clasificación.
 
