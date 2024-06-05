@@ -18,7 +18,7 @@ Para abordar el problema utilicé tecnicas como:
 
 ------------------------------------------------------------------------------------- Resultados de los modelos: Predicción.
 
-Con este Notebook pudimos percatarnos de que en este caso el modelo de predicción lineal fue mejor que el de regresión lógistica, ya que el R2 del mismo, fue más favorable que el de regresión lineal.
+Con esta implementación pudimos percatarnos de que en este caso el modelo de predicción lineal fue mejor que el de regresión lógistica, ya que el R2 del mismo, fue más favorable que el de regresión lineal.
 
 
 
